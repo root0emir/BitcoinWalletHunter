@@ -1,6 +1,5 @@
 # BitcoinWalletHunter
 
-# Bitcoin Wallet Hunter
 
 BTC Wallet Hunter is a Bitcoin wallet miner that checks balances from a database of Bitcoin addresses. This tool generates private keys, converts them to public keys and addresses, and checks for balances in the provided database file.
 
