@@ -27,7 +27,7 @@ BTC Wallet Hunter is a Bitcoin wallet miner that checks balances from a database
 1. Clone the repository:
     ```sh
     git clone https://github.com/root0emir/BitcoinWalletHunter.git
-    cd btc-hunter
+    cd BitcoinWalletHunter
     ```
 
 2. Install the required Python packages:
